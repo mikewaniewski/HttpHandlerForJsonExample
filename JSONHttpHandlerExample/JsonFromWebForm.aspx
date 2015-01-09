@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="JsonFromWebForm.aspx.cs" Inherits="JSONHttpHandlerExample.JsonFromWebForm" %>
